@@ -1,0 +1,227 @@
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\LAN-Sharing.exe.config
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\LAN-Sharing.exe
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\LAN-Sharing.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\CircularProgressBar.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\DotNetZip.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\log4net.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\MetroFramework.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Owin.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\System.IO.Compression.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\WinFormAnimation.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\ZipStorer.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\CircularProgressBar.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\DotNetZip.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\log4net.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\WinFormAnimation.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csprojResolveAssemblyReference.cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\Interop.Accessibility.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csproj.ResolveComReference.cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.GUI.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.ConfermWIndow.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.MessageFormError.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.Properties.Resources.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.SendFile.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.Settings.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csproj.GenerateResource.Cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.exe
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\LAN-Sharing.exe.config
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\LAN-Sharing.exe
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\LAN-Sharing.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\CircularProgressBar.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\DotNetZip.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\log4net.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\MetroFramework.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\MetroFramework.Fonts.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Newtonsoft.Json.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Owin.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\System.IO.Compression.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\WinFormAnimation.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\ZipStorer.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\CircularProgressBar.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\DotNetZip.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\log4net.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Newtonsoft.Json.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\WinFormAnimation.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csprojResolveAssemblyReference.cache
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\Interop.Accessibility.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csproj.ResolveComReference.cache
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.GUI.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.ConfermWIndow.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.MessageFormError.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.Properties.Resources.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.SendFile.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LANSharing.Settings.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csproj.GenerateResource.Cache
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.csproj.CoreCompileInputs.cache
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.exe
+C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\obj\Release\LAN-Sharing.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\LAN-Sharing.exe.config
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\LAN-Sharing.exe
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\LAN-Sharing.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\CircularProgressBar.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\DotNetZip.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\log4net.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\MetroFramework.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Owin.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\System.IO.Compression.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\WinFormAnimation.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\ZipStorer.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\CircularProgressBar.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\DotNetZip.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\log4net.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\WinFormAnimation.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.csprojResolveAssemblyReference.cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\Interop.Accessibility.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.csproj.ResolveComReference.cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.GUI.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.ConfermWIndow.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.MessageFormError.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.Properties.Resources.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.SendFile.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.Settings.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.csproj.GenerateResource.Cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.exe
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\LAN-Sharing.exe.config
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\LAN-Sharing.exe
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\LAN-Sharing.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\CircularProgressBar.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\DotNetZip.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\log4net.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\MetroFramework.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Owin.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\System.IO.Compression.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\WinFormAnimation.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\ZipStorer.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\CircularProgressBar.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\DotNetZip.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\log4net.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\WinFormAnimation.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.csprojResolveAssemblyReference.cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\Interop.Accessibility.dll
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.csproj.ResolveComReference.cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.GUI.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.ConfermWIndow.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.MessageFormError.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.Properties.Resources.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.SendFile.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LANSharing.Settings.resources
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.csproj.GenerateResource.Cache
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.exe
+C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\obj\Release\LAN-Sharing.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\LAN-Sharing.exe.config
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\LAN-Sharing.exe
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\LAN-Sharing.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\CircularProgressBar.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\DotNetZip.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\log4net.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\MetroFramework.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\MetroFramework.Fonts.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Microsoft.Owin.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Newtonsoft.Json.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Owin.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\System.IO.Compression.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\WinFormAnimation.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\ZipStorer.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\CircularProgressBar.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\DotNetZip.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\log4net.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Microsoft.Owin.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Newtonsoft.Json.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\WinFormAnimation.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LAN-Sharing.csprojResolveAssemblyReference.cache
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\Interop.Accessibility.dll
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LAN-Sharing.csproj.ResolveComReference.cache
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LANSharing.GUI.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LANSharing.ConfermWIndow.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LANSharing.MessageFormError.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LANSharing.Properties.Resources.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LANSharing.SendFile.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LANSharing.Settings.resources
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LAN-Sharing.csproj.GenerateResource.Cache
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LAN-Sharing.csproj.CoreCompileInputs.cache
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LAN-Sharing.exe
+C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\obj\Release\LAN-Sharing.pdb

@@ -1,0 +1,2772 @@
+Data Time:04/10/2017 18:40:11
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:12
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:13
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:14
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:15
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:16
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:17
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:18
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:19
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:20
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:21
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:22
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:23
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:24
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:25
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:26
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:27
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:28
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:29
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:30
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:31
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:32
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:33
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:34
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:35
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:36
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:37
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:38
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:39
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:40
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:41
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:42
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:43
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:44
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:45
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:46
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:04/10/2017 18:40:47
+Exception Name:Il file specificato non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file specificato non è stato trovato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenCore(String mapName, HandleInheritability inheritability, Int32 desiredAccessRights, Boolean createOrOpen)
+   in System.IO.MemoryMappedFiles.MemoryMappedFile.OpenExisting(String mapName, MemoryMappedFileRights desiredAccessRights, HandleInheritability inheritability)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v11\LAN-Sharing_v11\LAN-Sharing\GUI.cs:riga 112
+Control Name:System.Core
+
+//**********************************//
+
+Data Time:05/10/2017 10:57:07
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 279
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 105
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:06/10/2017 18:43:58
+Exception Name:Il file 'C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\no' non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file 'C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\no' non è stato trovato.
+Nome file: 'C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\no'
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   in LANSharing.User.getString() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\User.cs:riga 135
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 110
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:06/10/2017 18:46:47
+Exception Name:Il file 'C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\no' non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file 'C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\no' non è stato trovato.
+Nome file: 'C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\bin\Release\no'
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   in LANSharing.User.getString() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\User.cs:riga 135
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 110
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:06/10/2017 18:50:59
+Exception Name:Valore troppo grande o troppo piccolo per un Int16.
+Event Name:System.OverflowException: Valore troppo grande o troppo piccolo per un Int16.
+   in System.Convert.ToInt16(Int64 value)
+   in LANSharing.User.getString() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\User.cs:riga 141
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 110
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:06/10/2017 19:18:17
+Exception Name:Valore troppo grande o troppo piccolo per un Int16.
+Event Name:System.OverflowException: Valore troppo grande o troppo piccolo per un Int16.
+   in System.Convert.ToInt16(Int64 value)
+   in LANSharing.User.getString() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\User.cs:riga 141
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 110
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:06/10/2017 19:20:01
+Exception Name:Valore troppo grande o troppo piccolo per un Int16.
+Event Name:System.OverflowException: Valore troppo grande o troppo piccolo per un Int16.
+   in System.Convert.ToInt16(Int64 value)
+   in LANSharing.User.getString() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\User.cs:riga 141
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 110
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 18:47:49
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:47:51
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:47:53
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:47:55
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:47:57
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:47:59
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:01
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:03
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:05
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:07
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:09
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:11
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:13
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:15
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:17
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:19
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:21
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:23
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:25
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:27
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:29
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:31
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:33
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:35
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:37
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:39
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:41
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:43
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:45
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:47
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:50
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:52
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:54
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:56
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:48:58
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:49:00
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 194
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:20
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:22
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:24
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:26
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:28
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:30
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:32
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:34
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:36
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:38
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:40
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:43
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:45
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:47
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:49
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:51
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:53
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:55
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:57
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:50:59
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:51:01
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:51:03
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 18:51:05
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   in System.Drawing.Image.FromStream(Stream stream)
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 195
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:37
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:39
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:41
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:43
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:45
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:47
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:49
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:51
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:53
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:55
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:57
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:13:59
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:14:01
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:14:03
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 229
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 207
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:07/10/2017 19:17:25
+Exception Name:Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+Event Name:System.FormatException: Lunghezza non valida per una stringa o una matrice di caratteri Base 64.
+   in System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   in System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   in System.Convert.FromBase64String(String s)
+   in LANSharing.Server.Base64ToImage(String base64String) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 228
+   in LANSharing.Server.ReceiveBroadcastPackets() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 206
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:08/10/2017 11:15:00
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo 'GUI' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo 'GUI' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.get_WindowStyle()
+   in System.Windows.Forms.Form.get_CreateParams()
+   in MetroFramework.Forms.MetroForm.get_CreateParams()
+   in System.Windows.Forms.Control.SizeFromClientSize(Int32 width, Int32 height)
+   in System.Windows.Forms.Control.SizeFromClientSize(Size clientSize)
+   in System.Windows.Forms.ContainerControl.GetPreferredSizeCore(Size proposedSize)
+   in System.Windows.Forms.Form.GetPreferredSizeCore(Size proposedSize)
+   in System.Windows.Forms.Control.GetPreferredSize(Size proposedSize)
+   in System.Windows.Forms.Control.get_PreferredSize()
+   in System.Windows.Forms.Form.OnLayout(LayoutEventArgs levent)
+   in System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   in System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   in System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   in System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   in System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   in LANSharing.UserManagerUnit.AddNewUsers() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 116
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:08/10/2017 11:15:08
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo 'flowLayoutPanel' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo 'flowLayoutPanel' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.get_CreateThreadId()
+   in System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   in LANSharing.UserManagerUnit.AddNewUsers() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 116
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:08/10/2017 12:43:55
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 290
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 105
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:08/10/2017 12:44:31
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 290
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 105
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:08/10/2017 15:21:10
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 290
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 105
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:08/10/2017 15:21:46
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\UserManagerUnit.cs:riga 290
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v12_beta\LAN-Sharing_v12\LAN-Sharing\Server.cs:riga 105
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:22
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:23
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:24
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:25
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:26
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:27
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:28
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:29
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:30
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:31
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:32
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:33
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:34
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:35
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:36
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:37
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:38
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:39
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:40
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:41
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:42
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:43
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:44
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:45
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:46
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:47
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:48
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:49
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:50
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:51
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:52
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:53
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:54
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:55
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:56
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:57
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:58
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:20:59
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:00
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:01
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:02
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:03
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:04
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:05
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:06
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:07
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:08
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:09
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:10
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:11
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:12
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:13
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:14
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:15
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:16
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:17
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:18
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:19
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:20
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:21
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:22
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:23
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:24
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:25
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:26
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:27
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:28
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:09/10/2017 16:21:29
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateButtonImage() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:38
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:39
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:40
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:41
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:42
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:43
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:44
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:45
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:46
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:47
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:48
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:49
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:50
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:51
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:52
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:53
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:54
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:55
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:56
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:57
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:58
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:01:59
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:00
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:01
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:02
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:03
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:04
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:05
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:06
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:07
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:08
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:09
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:10
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:11
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:12
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:13
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:14
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:15
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:16
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:17
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:18
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:19
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:20
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:21
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:22
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:23
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:24
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:25
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:26
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:27
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:28
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:29
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:30
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:31
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:32
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:33
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:34
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:35
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:36
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:37
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:38
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:39
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:40
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:41
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:42
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:43
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:44
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:45
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:46
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:47
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:48
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:49
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:02:50
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:18
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:19
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:20
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:21
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:22
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:23
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:24
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:04:25
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:06:04
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:06:05
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:06:06
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:06:07
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in System.Drawing.Bitmap..ctor(Image original)
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\UserManagerUnit.cs:riga 142
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:10/10/2017 09:18:34
+Exception Name:Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.83:3000
+Event Name:System.Net.Sockets.SocketException (0x80004005): Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.83:3000
+   in System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   in System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 71
+Control Name:System
+
+//**********************************//
+
+Data Time:10/10/2017 09:19:51
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 274
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:20:42
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 274
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:26:27
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 274
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:26:53
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 274
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:31:52
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 274
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:35:11
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 274
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:54:48
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 306
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 09:56:47
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 306
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:10/10/2017 10:00:09
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. ---> System.Net.Sockets.SocketException: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 192
+Control Name:System
+
+//**********************************//
+
+Data Time:10/10/2017 10:10:35
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\.vs\LAN-Sharing\v15\sqlite3\storage.ide' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFileExtensions.DoCreateEntryFromFile(ZipArchive destination, String sourceFileName, String entryName, Nullable`1 compressionLevel)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v12_BETA\LAN-Sharing\Client.cs:riga 306
+Control Name:mscorlib
+
+//**********************************//
+

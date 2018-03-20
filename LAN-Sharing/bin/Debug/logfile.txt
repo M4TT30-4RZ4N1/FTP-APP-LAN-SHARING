@@ -1,0 +1,2366 @@
+Data Time:11/10/2017 15:12:15
+Exception Name:Impossibile creare un file, se il file esiste già.
+
+Event Name:System.IO.IOException: Impossibile creare un file, se il file esiste già.
+
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.__Error.WinIOError()
+   in System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   in System.IO.File.Move(String sourceFileName, String destFileName)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 464
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 15:12:15
+Exception Name:Impossibile creare un file, se il file esiste già.
+
+Event Name:System.IO.IOException: Impossibile creare un file, se il file esiste già.
+
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.__Error.WinIOError()
+   in System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   in System.IO.File.Move(String sourceFileName, String destFileName)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 464
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 15:12:15
+Exception Name:Il processo non può accedere al file 'C:\Users\arzan\Downloads\accesso.txt' perché è in uso da un altro processo.
+Event Name:System.IO.IOException: Il processo non può accedere al file 'C:\Users\arzan\Downloads\accesso.txt' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   in System.IO.File.OpenFile(String path, FileAccess access, SafeFileHandle& handle)
+   in System.IO.File.SetCreationTimeUtc(String path, DateTime creationTimeUtc)
+   in System.IO.Compression.ZipStorer.ExtractFile(ZipFileEntry _zfe, String _filename)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 473
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 15:20:07
+Exception Name:Impossibile creare un file, se il file esiste già.
+
+Event Name:System.IO.IOException: Impossibile creare un file, se il file esiste già.
+
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.__Error.WinIOError()
+   in System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   in System.IO.File.Move(String sourceFileName, String destFileName)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 464
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 15:20:07
+Exception Name:Il file 'C:\Users\arzan\Downloads\accesso.txt' non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file 'C:\Users\arzan\Downloads\accesso.txt' non è stato trovato.
+Nome file: 'C:\Users\arzan\Downloads\accesso.txt'
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   in System.IO.File.Move(String sourceFileName, String destFileName)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 464
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 15:22:40
+Exception Name:Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto.
+Event Name:System.IO.IOException: Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto. ---> System.Net.Sockets.SocketException: Connessione in corso interrotta forzatamente dall'host remoto
+   in System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 432
+Control Name:System
+
+//**********************************//
+
+Data Time:11/10/2017 15:22:40
+Exception Name:Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto.
+Event Name:System.IO.IOException: Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto. ---> System.Net.Sockets.SocketException: Connessione in corso interrotta forzatamente dall'host remoto
+   in System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\Server.cs:riga 432
+Control Name:System
+
+//**********************************//
+
+Data Time:11/10/2017 15:37:22
+Exception Name:C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+Event Name:System.IO.FileNotFoundException: C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+   in System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   in System.Drawing.Image.FromFile(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\LAN-Sharing-App.cs:riga 150
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:11/10/2017 15:49:04
+Exception Name:C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+Event Name:System.IO.FileNotFoundException: C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+   in System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   in System.Drawing.Image.FromFile(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\LAN-Sharing-App.cs:riga 150
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:11/10/2017 15:56:17
+Exception Name:C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+Event Name:System.IO.FileNotFoundException: C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+   in System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   in System.Drawing.Image.FromFile(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\LAN-Sharing-App.cs:riga 150
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:11/10/2017 16:15:58
+Exception Name:C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+Event Name:System.IO.FileNotFoundException: C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\bin\Debug\\Admin\\admin_Image_80
+   in System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   in System.Drawing.Image.FromFile(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\LAN-Sharing-App.cs:riga 150
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:11/10/2017 16:52:31
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v13_beta\LAN-Sharing_v13_beta\LAN-Sharing\LAN-Sharing-App.cs:riga 151
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:11/10/2017 20:29:40
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\LAN-Sharing-App.cs:riga 151
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:11/10/2017 21:07:41
+Exception Name:Il file 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\gatto (2).jpg' non è stato trovato.
+Event Name:System.IO.FileNotFoundException: Il file 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\gatto (2).jpg' non è stato trovato.
+Nome file: 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\gatto (2).jpg'
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.File.GetAttributes(String path)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 118
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:13
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:14
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:15
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:16
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:17
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:18
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:19
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:20
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:21
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:22
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:23
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:24
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:25
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:26
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:27
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:28
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:29
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:30
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:31
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:35
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:36
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:37
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:38
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:39
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:40
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:41
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:42
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:11/10/2017 21:14:43
+Exception Name:Il valore non può essere null.
+Event Name:System.ArgumentNullException: Il valore non può essere null.
+   in System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   in System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   in LANSharing.GUI.Timer_Tick_Tock(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\GUI.cs:riga 168
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:12/10/2017 08:59:19
+Exception Name:Impossibile trovare una parte del percorso 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\tmpFiles\qazgibaq.qbl'.
+Event Name:System.IO.DirectoryNotFoundException: Impossibile trovare una parte del percorso 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\tmpFiles\qazgibaq.qbl'.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   in System.IO.Compression.ZipFile.Open(String archiveFileName, ZipArchiveMode mode, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.DoCreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, Nullable`1 compressionLevel, Boolean includeBaseDirectory, Encoding entryNameEncoding)
+   in System.IO.Compression.ZipFile.CreateFromDirectory(String sourceDirectoryName, String destinationArchiveFileName, CompressionLevel compressionLevel, Boolean includeBaseDirectory)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 345
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:12/10/2017 08:59:20
+Exception Name:Impossibile trovare una parte del percorso 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\tmpFiles\qazgibaq.qbl'.
+Event Name:System.IO.DirectoryNotFoundException: Impossibile trovare una parte del percorso 'C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\bin\Debug\tmpFiles\qazgibaq.qbl'.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.File.InternalDelete(String path, Boolean checkHost)
+   in System.IO.File.Delete(String path)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 532
+   in LANSharing.Client.EntryPoint(String userInfo) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 35
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:12/10/2017 10:50:59
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:51:08
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:51:15
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:54:32
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:54:49
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:54:53
+Exception Name:Tentativo di operazione del socket verso un host non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso un host non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 288
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:System
+
+//**********************************//
+
+Data Time:12/10/2017 10:55:49
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host. ---> System.Net.Sockets.SocketException: Connessione interrotta dal software del computer host
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 392
+Control Name:System
+
+//**********************************//
+
+Data Time:12/10/2017 10:55:49
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:55:57
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:56:04
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:56:58
+Exception Name:Impossibile chiamare Invoke o BeginInvoke su un controllo finché non viene creato un handle di finestra.
+Event Name:System.InvalidOperationException: Impossibile chiamare Invoke o BeginInvoke su un controllo finché non viene creato un handle di finestra.
+   in System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   in System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   in System.Windows.Forms.Control.Invoke(Delegate method)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 396
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:12/10/2017 10:56:59
+Exception Name:Impossibile chiamare Invoke o BeginInvoke su un controllo finché non viene creato un handle di finestra.
+Event Name:System.InvalidOperationException: Impossibile chiamare Invoke o BeginInvoke su un controllo finché non viene creato un handle di finestra.
+   in System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   in System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   in System.Windows.Forms.Control.Invoke(Delegate method)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver)
+   in LANSharing.Client.EntryPoint(String userInfo)
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:12/10/2017 10:57:49
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\UserManagerUnit.cs:riga 295
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 10:58:05
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. ---> System.Net.Sockets.SocketException: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v14\LAN-Sharing\Client.cs:riga 392
+Control Name:System
+
+//**********************************//
+
+Data Time:12/10/2017 20:47:41
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 20:48:58
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 20:49:08
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 20:51:20
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 20:53:01
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Restart()
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:12/10/2017 21:01:19
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Restart()
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:12/10/2017 21:07:15
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in F:\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 21:16:08
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in F:\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 21:17:15
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in F:\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:12/10/2017 21:36:05
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:36:10
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:37:37
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:38:13
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:38:44
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:41:14
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:41:25
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:43:12
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:43:14
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:43:59
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.GUI.onlineIconContextMenu_Click(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 342
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:44:33
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:44:37
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:44:39
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.GUI.onlineIconContextMenu_Click(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 342
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:44:46
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:44:49
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:46:21
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:46:29
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:46:30
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.GUI.onlineIconContextMenu_Click(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 342
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:46:52
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:46:55
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:47:13
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.GUI.onlineIconContextMenu_Click(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 342
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:47:19
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:47:22
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:47:28
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.GUI.onlineIconContextMenu_Click(Object sender, EventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\GUI.cs:riga 342
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:47:52
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:47:54
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:48:28
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:48:29
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.User.isOnline() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\User.cs:riga 136
+   in LANSharing.Server.EntryTCP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 224
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:49:00
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:49:20
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:50:04
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:50:26
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:50:46
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:50:55
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:51:07
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 305
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:12/10/2017 21:56:14
+Exception Name:Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+Event Name:System.Net.Sockets.SocketException (0x80004005): Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+   in System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   in System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Client.cs:riga 101
+Control Name:System
+
+//**********************************//
+
+Data Time:12/10/2017 21:56:51
+Exception Name:Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+Event Name:System.Net.Sockets.SocketException (0x80004005): Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+   in System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   in System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Client.cs:riga 101
+Control Name:System
+
+//**********************************//
+
+Data Time:14/10/2017 12:36:03
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:15/10/2017 16:17:48
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 306
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 16:18:19
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 306
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 16:22:31
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 306
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 149
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 16:23:04
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. ---> System.Net.Sockets.SocketException: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Client.cs:riga 231
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 16:30:55
+Exception Name:Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\UserManagerUnit.cs:riga 299
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v15\LAN-Sharing\Server.cs:riga 149
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 16:57:39
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 310
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 151
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 16:58:34
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 310
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 16:59:09
+Exception Name:Impossibile leggere oltre la fine del flusso.
+Event Name:System.IO.EndOfStreamException: Impossibile leggere oltre la fine del flusso.
+   in System.IO.BinaryReader.ReadByte()
+   in System.IO.BinaryReader.Read7BitEncodedInt()
+   in System.IO.BinaryReader.ReadString()
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 595
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:15/10/2017 16:59:42
+Exception Name:Impossibile leggere oltre la fine del flusso.
+Event Name:System.IO.EndOfStreamException: Impossibile leggere oltre la fine del flusso.
+   in System.IO.BinaryReader.ReadByte()
+   in System.IO.BinaryReader.Read7BitEncodedInt()
+   in System.IO.BinaryReader.ReadString()
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 595
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:15/10/2017 17:00:19
+Exception Name:Impossibile leggere oltre la fine del flusso.
+Event Name:System.IO.EndOfStreamException: Impossibile leggere oltre la fine del flusso.
+   in System.IO.BinaryReader.ReadByte()
+   in System.IO.BinaryReader.Read7BitEncodedInt()
+   in System.IO.BinaryReader.ReadString()
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 595
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:15/10/2017 17:06:45
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 310
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 151
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 17:06:47
+Exception Name:Accesso al percorso 'cwvbuhek.o3o' negato.
+Event Name:System.UnauthorizedAccessException: Accesso al percorso 'cwvbuhek.o3o' negato.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileInfo.Delete()
+   in LANSharing.LANSharingApp.flushTmpDirectory() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\LAN-Sharing-App.cs:riga 473
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:15/10/2017 17:08:35
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 310
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 17:12:31
+Exception Name:Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto.
+Event Name:System.IO.IOException: Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto. ---> System.Net.Sockets.SocketException: Connessione in corso interrotta forzatamente dall'host remoto
+   in System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   in System.IO.Stream.ReadByte()
+   in System.IO.BinaryReader.ReadByte()
+   in System.IO.BinaryReader.Read7BitEncodedInt()
+   in System.IO.BinaryReader.ReadString()
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 595
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 17:39:27
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host. ---> System.Net.Sockets.SocketException: Connessione interrotta dal software del computer host
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Client.cs:riga 231
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 17:47:10
+Exception Name:Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 303
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 17:47:17
+Exception Name:Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 303
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 17:47:38
+Exception Name:Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 303
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 17:47:53
+Exception Name:Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 303
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 17:48:49
+Exception Name:Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso una rete non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 303
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:01:58
+Exception Name:Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+Event Name:System.Net.Sockets.SocketException (0x80004005): Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+   in System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   in System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Client.cs:riga 101
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:22:26
+Exception Name:Indice oltre i limiti della matrice.
+Event Name:System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 18:22:42
+Exception Name:Indice oltre i limiti della matrice.
+Event Name:System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 18:22:56
+Exception Name:Indice oltre i limiti della matrice.
+Event Name:System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 18:28:17
+Exception Name:Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+Event Name:System.Net.Sockets.SocketException (0x80004005): Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato 192.168.1.67:3000
+   in System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   in System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   in System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Client.cs:riga 101
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:11
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:13
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:15
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:18
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:20
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:22
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:24
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:26
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:28
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:30
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:32
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:34
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:36
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:38
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:40
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:42
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:44
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:46
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:48
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:50
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:52
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:54
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:56
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:36:58
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 197
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:50:47
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host. ---> System.Net.Sockets.SocketException: Connessione interrotta dal software del computer host
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Client.cs:riga 231
+Control Name:System
+
+//**********************************//
+
+Data Time:15/10/2017 18:50:48
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\UserManagerUnit.cs:riga 311
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v16\LAN-Sharing\Server.cs:riga 151
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:15/10/2017 19:19:23
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:16/10/2017 11:25:52
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:16/10/2017 11:26:37
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:16/10/2017 11:27:09
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 09:26:58
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host. ---> System.Net.Sockets.SocketException: Connessione interrotta dal software del computer host
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Client.cs:riga 231
+Control Name:System
+
+//**********************************//
+
+Data Time:17/10/2017 09:26:58
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:26:58
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:33:40
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:33:42
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:33:42
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 202
+Control Name:System
+
+//**********************************//
+
+Data Time:17/10/2017 09:33:56
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:33:57
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 321
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:34:08
+Exception Name:Tentativo di operazione del socket verso un host non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso un host non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 307
+Control Name:System
+
+//**********************************//
+
+Data Time:17/10/2017 09:34:08
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 321
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:34:31
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:34:31
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:40:22
+Exception Name:Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host.
+Event Name:System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Connessione interrotta dal software del computer host. ---> System.Net.Sockets.SocketException: Connessione interrotta dal software del computer host
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine della traccia dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Client.cs:riga 231
+Control Name:System
+
+//**********************************//
+
+Data Time:17/10/2017 09:40:22
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:40:22
+Exception Name:Indirizzo richiesto non valido nel proprio contesto
+Event Name:System.Net.Sockets.SocketException (0x80004005): Indirizzo richiesto non valido nel proprio contesto
+   in System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   in System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, IPEndPoint endPoint)
+   in LANSharing.MulticastUdpClient.SendMulticast(Byte[] bufferToSend) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\MulticastUdpClient.cs:riga 60
+   in LANSharing.Server.sendBroadcastPacket(String message) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 206
+Control Name:System
+
+//**********************************//
+
+Data Time:17/10/2017 09:41:06
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:41:06
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 321
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:41:21
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:41:21
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:43:10
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:43:10
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:45:44
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:45:44
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:47:43
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:47:43
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:48:37
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:48:37
+Exception Name:Impossibile accedere a un oggetto eliminato.
+Nome oggetto: 'GUI'.
+Event Name:System.ObjectDisposedException: Impossibile accedere a un oggetto eliminato.
+Nome oggetto: 'GUI'.
+   in System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   in System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   in System.Windows.Forms.Control.Invoke(Delegate method)
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 164
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:48:50
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:48:50
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 321
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:49:05
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:49:05
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:49:54
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:49:54
+Exception Name:Impossibile accedere a un oggetto eliminato.
+Nome oggetto: 'GUI'.
+Event Name:System.ObjectDisposedException: Impossibile accedere a un oggetto eliminato.
+Nome oggetto: 'GUI'.
+   in System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   in System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   in System.Windows.Forms.Control.Invoke(Delegate method)
+   in LANSharing.Server.EntryNotifyPresence()
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:50:32
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:50:32
+Exception Name:Impossibile accedere a un oggetto eliminato.
+Nome oggetto: 'GUI'.
+Event Name:System.ObjectDisposedException: Impossibile accedere a un oggetto eliminato.
+Nome oggetto: 'GUI'.
+   in System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   in System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   in System.Windows.Forms.Control.Invoke(Delegate method)
+   in LANSharing.Server.EntryNotifyPresence()
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 09:51:21
+Exception Name:No LAN connection detected
+Event Name:System.Exception: No LAN connection detected
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 314
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 09:51:22
+Exception Name:Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+Event Name:System.InvalidOperationException: Operazione cross-thread non valida: è stato eseguito l'accesso al controllo '' da un thread diverso da quello da cui è stata eseguita la creazione.
+   in System.Windows.Forms.Control.get_Handle()
+   in System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   in System.Windows.Forms.Control.set_Visible(Boolean value)
+   in MetroFramework.Forms.MetroForm.SetVisibleCore(Boolean value)
+   in LANSharing.GUI.OnFormClosing(FormClosingEventArgs e) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\GUI.cs:riga 373
+   in System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   in System.Windows.Forms.Application.ExitInternal()
+   in System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   in System.Windows.Forms.Application.Exit()
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 322
+   in LANSharing.Server.EntryNotifyPresence() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 156
+Control Name:System.Windows.Forms
+
+//**********************************//
+
+Data Time:17/10/2017 10:46:58
+Exception Name:Tentativo di operazione del socket verso un host non raggiungibile 8.8.8.8:65530
+Event Name:System.Net.Sockets.SocketException (0x80004005): Tentativo di operazione del socket verso un host non raggiungibile 8.8.8.8:65530
+   in System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   in System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 307
+Control Name:System
+
+//**********************************//
+
+Data Time:17/10/2017 10:46:58
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.GetLocalIP() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 321
+   in LANSharing.UserManagerUnit..ctor() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 35
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 10:52:23
+Exception Name:Generata eccezione di tipo 'System.OutOfMemoryException'.
+Event Name:System.OutOfMemoryException: Generata eccezione di tipo 'System.OutOfMemoryException'.
+   in System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   in System.IO.File.ReadAllBytes(String path)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Client.cs:riga 359
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:17/10/2017 10:53:21
+Exception Name:Generata eccezione di tipo 'System.OutOfMemoryException'.
+Event Name:System.OutOfMemoryException: Generata eccezione di tipo 'System.OutOfMemoryException'.
+   in System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   in System.IO.File.ReadAllBytes(String path)
+   in LANSharing.Client.FTP_protocol(String ip, String port, String firstNameReceiver, String lastnameReceiver) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Client.cs:riga 359
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:20
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:20
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:21
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:22
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:23
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:24
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:25
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:26
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:27
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:28
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:29
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:30
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:31
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:32
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:33
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:34
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 11:12:35
+Exception Name:Riferimento a un oggetto non impostato su un'istanza di oggetto.
+Event Name:System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in LANSharing.UserManagerUnit.UpdateImageButtons() in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\UserManagerUnit.cs:riga 146
+Control Name:LAN-Sharing
+
+//**********************************//
+
+Data Time:17/10/2017 17:49:15
+Exception Name:Impossibile leggere oltre la fine del flusso.
+Event Name:System.IO.EndOfStreamException: Impossibile leggere oltre la fine del flusso.
+   in System.IO.BinaryReader.ReadByte()
+   in System.IO.BinaryReader.Read7BitEncodedInt()
+   in System.IO.BinaryReader.ReadString()
+   in LANSharing.Server.ProcessClientRequest(Object argument) in C:\Users\arzan\Desktop\LAN-Sharing_v17\LAN-Sharing\Server.cs:riga 620
+Control Name:mscorlib
+
+//**********************************//
+
+Data Time:17/10/2017 21:13:36
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:16:07
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:17:17
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:17:48
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 163
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:18:57
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:19:34
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:25:31
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:33:28
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:37:59
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:45:42
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:54:21
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:17/10/2017 21:59:01
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\Alessia\Desktop\LAN-Sharing Project\LAN-Sharing_v17\LAN-Sharing_v17\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:27/10/2017 13:05:37
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v18\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+
+Data Time:27/10/2017 13:06:53
+Exception Name:Parametro non valido.
+Event Name:System.ArgumentException: Parametro non valido.
+   in System.Drawing.Bitmap..ctor(String filename)
+   in LANSharing.LANSharingApp.Main(String[] args) in C:\Users\arzan\Desktop\LAN-Sharing_v18\LAN-Sharing\LAN-Sharing-App.cs:riga 167
+Control Name:System.Drawing
+
+//**********************************//
+

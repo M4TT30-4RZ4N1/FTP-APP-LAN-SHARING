@@ -1,0 +1,6 @@
+image_flag 0
+user_image_path no
+user_small_image_path no
+sys_Sound_Flag 1
+save_profile 1
+path_save C:\Users\arzan\Downloads
